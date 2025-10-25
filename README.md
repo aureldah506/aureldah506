@@ -9,7 +9,7 @@ Je suis étudiant en développement informatique à Lyon.
 | Web (Frontend) | Web (Backend) | Autre |
 | :--- | :--- | :--- |
 | HTML | Symfony | Python |
-| CSS | | Linux |
+| CSS |PHP | Linux |
 | Vue.js | | |
 
 - Vous pouvez me contacter à cette adresse : [dahaurel506@gmail.com](mailto:dahaurel506@gmail.com)
