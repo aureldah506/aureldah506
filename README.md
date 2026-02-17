@@ -16,9 +16,3 @@ Je suis étudiant en développement informatique à Lyon.
 
 ---
 
-### Mes statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aureldah506&show_icons=true&theme=tokyonight" height="180" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureldah506&layout=compact&theme=tokyonight" height="180" alt="Top Langages" />
-</div>
